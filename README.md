@@ -2,8 +2,6 @@
 
 **Catch silent RAG/LLM quality regressions before your users do.**
 
-[![CI](https://github.com/SlateGitOrg/driftguard-llm/actions/workflows/ci.yml/badge.svg)](https://github.com/SlateGitOrg/driftguard-llm/actions/workflows/ci.yml)
-
 ![driftguard-llm](assets/hero.png)
 
 ## Why
@@ -263,9 +261,3 @@ prometheus/         # scrape config + alerting rules
 ## License
 
 MIT - see [LICENSE](LICENSE).
-
-## Maintainer
-
-Maintained by **Dev Bhatt**, a data analyst with 6+ years of professional experience building automated pipelines, controls and dashboards. His work includes automating risk indicator tracking and reconciliation across 50M+ records monthly, reducing operational cycle time by 35%, and delivering reporting automation that saved $180K annually.
-
-For project questions or maintenance inquiries, contact [Dev Bhatt](mailto:devbhattwork27@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/dev-bhatt27).
